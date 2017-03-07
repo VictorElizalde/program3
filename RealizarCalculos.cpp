@@ -1,7 +1,7 @@
 // Victor Elizalde
 // A00817586
-// Programa para saber el numero de lineas con informacion y lineas en blanco de un archivo de texto.
-// Febrero 1 del 2017
+// Programa para hacer los calculos pedidos
+// Marzo 6 del 2017
 
 #include <iostream>
 #include <fstream>

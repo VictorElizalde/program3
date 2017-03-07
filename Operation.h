@@ -1,7 +1,7 @@
 // Victor Elizalde
 // A00817586
-// Clase que hacer todas las operaciones logicas para llegar al resultado.
-// Febrero 1 del 2017
+// Clase que imprime resultados
+// Marzo 6 del 2017
 
 #include <algorithm>
 #include <string>

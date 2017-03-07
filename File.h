@@ -1,7 +1,7 @@
 // Victor Elizalde
 // A00817586
 // Clase que guarda los atributos de un archivo.
-// Febrero 1 del 2017
+// Marzo 6 del 2017
 
 using namespace std;
 
