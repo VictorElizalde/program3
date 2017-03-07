@@ -1,0 +1,39 @@
+Se usaran 3 clases
+
+Main para proceso general
+File para guardar las variables del archivo
+Operation para hacer todos los calculos e impresiones
+
+
+Proceso Clase main
+
+  Leer archivo
+
+  Checar si existe o no
+
+    si no existe terminar proceso
+
+  de lo contrario continuar proceso
+
+  leer primer linea y asignar el valor a xk del objeto File
+
+  Entrar en loop
+
+    por cada linea agarrar los 2 valores que se encuentran en la linea y sumar la variable N
+    Ir haciendo las sumatorias y calculos por linea hasta terminar archivo
+
+  Salir del loop
+
+  Calcular los datos que se piden y asignarlos a al objeto File
+
+  imprimir resultados redondeando con 5 decimales
+
+Proceso clase File
+
+  Guardar informacion de las variables, puros gets y sets
+
+Proceso clase Operation
+
+  Imprimir los resultados
+  Calcular las variables
+  
